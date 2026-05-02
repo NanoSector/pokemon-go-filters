@@ -36,39 +36,47 @@ I use the following tags, in the following order for quick sorting. The order is
 
 ### 1. Objective tags
 
-These tags match above objectives. These tags are orange.
+These tags match the objectives listed above. They are colored **orange**.
 
-1. **Shiny**
-2. **Biggest**
-3. **Level 1**
-4. **Hundo**
-5. **(Bij)Nundo**: A wordplay on the Dutch word "bijna" (meaning almost), as I sometimes like to keep difficult to come by mons with only 1 IV point, e.g. Meltan and Smeargle.
-6. **Event/BG**: Pokémon which have a costume, any form of background or were only available during specific events (e.g. Spinda forms). I used to have these separated but this ended up cluttering the tag list.
-7. **Rare**: e.g. Rotom, antique form Sinistea. Anything extremely hard to get by. There is definitely overlap with the Event tag but this is more of a showcase.
+| Tag            | Description                                                                                                                                                  |
+|:---------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Shiny**      | Pokémon that are shiny.                                                                                                                                      |
+| **Biggest**    | Pokémon that are XXL (for showcases).                                                                                                                        |
+| **Level 1**    | Pokémon with 10 CP.                                                                                                                                          |
+| **Hundo**      | Pokémon with 100% IV.                                                                                                                                        |
+| **(Bij)Nundo** | A wordplay on the Dutch word "bijna" (meaning almost), as I sometimes like to keep difficult to come by mons with only 1 IV point, e.g. Meltan and Smeargle. |
+| **Event/BG**   | Pokémon which have a costume, any form of background or were only available during specific events (e.g. Spinda forms).                                      |
+| **Rare**       | Extremely hard to get by (e.g. Rotom, antique form Sinistea). There is overlap with the Event tag but this is more of a showcase.                            |
 
 ### 2. Statuses
 
-These tags indicate Pokémon with a specific status. These tags are red.
+These tags indicate Pokémon with a specific status. They are colored **red**.
 
-1. **Mega**: Pokémon with mega evolution status, equivalent to search string `mega1-`
-2. **Adventure Effect**: Pokémon with an adventure effect move, equivalent to search string `adventureeffect`
-3. **Level 50**: Any mons maxed out in level.
-4. **DoNotPurify**: These mons are better in battle with their shadow state according to tier lists.
+| Tag                  | Search String     | Description                                                    |
+|:---------------------|:------------------|:---------------------------------------------------------------|
+| **Mega**             | `mega1-`          | Pokémon with mega evolution status.                            |
+| **Adventure Effect** | `adventureeffect` | Pokémon with an adventure effect move.                         |
+| **Level 50**         |                   | Any mons maxed out in level.                                   |
+| **DoNotPurify**      |                   | Shadow mons that are better in battle according to tier lists. |
 
 ### 3. Actions
 
-These tags indicate mons that require attention or an action at some point. These tags are green.
+These tags indicate mons that require attention or an action at some point. They are colored **green**.
 
-1. **DexEvolve**: Pokémon kept for evolving but for which I do not yet have enough candy, either to further complete the Dex or for randomized evolves (e.g. Tandemous to Maushold Family of Three)
-2. **CandyTransfer**: Anything that may be hard to get by (e.g. legendaries) but is otherwise good for transfer, so kept for double candy transfer events.
-3. **UpTo50**: Pokémon one step away from becoming level 50, kept for upcoming quests.
+| Tag               | Description                                                                                                                                                                        |
+|:------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **DexEvolve**     | Pokémon kept for evolving but for which I do not yet have enough candy, either to further complete the Dex or for randomized evolves (e.g. Tandemous to Maushold Family of Three). |
+| **CandyTransfer** | Anything that may be hard to get by (e.g. legendaries) but is otherwise good for transfer, kept for double candy transfer events.                                                  |
+| **UpTo50**        | Pokémon one step away from becoming level 50, kept for upcoming quests.                                                                                                            |
 
 ### 4. Keepers
 
-These tags indicate kept Pokémon which would otherwise have been transferred or have yet to be transferred or traded. These tags are black.
+These tags indicate kept Pokémon which would otherwise have been transferred or have yet to be transferred or traded. They are colored **black**.
 
-1. **Regional**: Anything that can only be found in a specific region, for example Scatterbugs from non-native regions, or Mudbray because it does not spawn where I live.
-2. **KeepOrBetter**: In some cases I might have a 3 star variant of a Pokémon, but also a different variant which is only 2 stars. Those variants get this tag to avoid being transferred.
-3. **Reserved**: Pokémon reserved for trading with real-life people.
+| Tag              | Description                                                                                                                                                 |
+|:-----------------|:------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Regional**     | Anything that can only be found in a specific region, for example Scatterbugs from non-native regions, or Mudbray because it does not spawn where I live.   |
+| **KeepOrBetter** | Used when I have a 3 star variant of a Pokémon, but also a different variant which is only 2 stars. Those variants get this tag to avoid being transferred. |
+| **Reserved**     | Pokémon reserved for trading with real-life people.                                                                                                         |
 
 <!-- TODO: turn the above tag categories into inbox search strings (ObjInbox, StatusInbox, ActionInbox, KeepInbox) and add /dev/null search string. -->
